@@ -1,1 +1,1 @@
-# mlb_total_runs_prediction
+# MLB Total Runs Prediction
